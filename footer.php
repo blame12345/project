@@ -1,0 +1,3 @@
+<footer>
+<p> THE FINALS © 2022-2024 Embark Studios AB. THE FINALS and EMBARK trademarks and logos are trademarks or registered trademarks of Embark Studios AB. NEXON trademark and logo are trademarks or registered trademarks of NXC Corporation. © 2024 Valve Corporation. Steam and the Steam logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries. © 2024 Epic Games, Inc. All rights reserved. Unreal, Unreal Engine and their respective logos are trademarks or registered trademarks of Epic Games, Inc. in the U.S. Patent and Trademark Office and elsewhere. All other trademarks and trade names are the property of their respective owners. </p> 
+</footer>
